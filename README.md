@@ -1,6 +1,6 @@
-# DISOGRA Query Link — public information
+# Personal Query Link — public information
 
-Static app-information, privacy, and use/support pages for John Disogra's personal Grok / Google BigQuery OAuth configuration.
+Static app-information, privacy, and use/support pages for a personal Grok / Google BigQuery OAuth configuration.
 
 Hosted with GitHub Pages from `main:/` at https://shadowpr0.github.io/.
 
